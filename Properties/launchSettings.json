@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Runner": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "NewDay": {
+      "commandName": "Project",
+      "commandLineArgs": "NewDay",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
